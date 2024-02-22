@@ -11,6 +11,6 @@
 
 **Isenção de responsabilidade**: O autor original não é responsável por quaisquer danos ou reclamações relacionados ao uso da obra por terceiros.
 
-SignalsAPI (c) por MrEntrasil, 2024
+SignalAPI (c) por MrEntrasil, 2024
 
 Você deve ter recebido uma cópia desta licença junto com esta obra.
