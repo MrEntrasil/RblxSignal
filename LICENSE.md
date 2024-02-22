@@ -7,10 +7,10 @@
 - **Atribuição**: Você deve dar créditos ao autor original.
 - **Sem Derivações**: Não é permitido criar obras derivadas ou adaptar o material.
 
-**Finalidade não comercial**: Esta licença permite o uso comercial do material.
+**Finalidade não comercial**: Esta licença **não** permite o uso comercial do material.
 
 **Isenção de responsabilidade**: O autor original não é responsável por quaisquer danos ou reclamações relacionados ao uso da obra por terceiros.
 
-SignalAPI (c) por MrEntrasil, 2024
+SignalsAPI (c) por MrEntrasil, 2024
 
 Você deve ter recebido uma cópia desta licença junto com esta obra.
