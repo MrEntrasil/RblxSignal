@@ -1,4 +1,6 @@
 .title {
+    border: 25px black;
     font-family: sans-serif;
-    color: lightblue;
+    background-color: lightblue;
+    text-align: center;
 }
