@@ -1,16 +1,21 @@
-**Licença Creative Commons Atribuição-SemDerivações 4.0 Internacional**
+MIT License
 
-**Você tem a liberdade de:**
-- Compartilhar — copiar e redistribuir o material em qualquer meio ou formato, desde que seja na forma original e com os devidos créditos ao autor.
+Copyright (c) 2024 MrEntrasil
 
-**Sob as seguintes condições:**
-- **Atribuição**: Você deve dar créditos ao autor original.
-- **Sem Derivações**: Não é permitido criar obras derivadas ou adaptar o material.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**Finalidade não comercial**: Esta licença **não** permite o uso comercial do material.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-**Isenção de responsabilidade**: O autor original não é responsável por quaisquer danos ou reclamações relacionados ao uso da obra por terceiros.
-
-SignalAPI (c) por MrEntrasil, 2024
-
-Você deve ter recebido uma cópia desta licença junto com esta obra.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
